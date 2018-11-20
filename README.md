@@ -1,7 +1,7 @@
 # Dataset Yelp
 
 ## Problema
-O quanto os usuários influênciam no fechamento do estabelecimento?
+O quanto os usuários influênciam no sucesso de determinado estabelecimento? (Continuar aberto ou fechar)
 
 ## Objeto
 Predizer se determinado estabelecimento do tipo restaurante fechará na região de Las Vegas. 
